@@ -31,10 +31,9 @@
 [Troubleshooting (Hadoop: Setting up a Single Node Cluster)](https://psyduck5.tistory.com/71?category=1030128)
 
 ### Ref
-[Apache Hadoop](https://hadoop.apache.org/)
-[아파치 스파크 입문](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=193)
-[Hadoop: Setting up a Single Node Cluster](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html)
-[Receive Operation Not Permitted Error when starting HDFS](https://stackoverflow.com/questions/70792628/receive-operation-not-permitted-error-when-starting-hdfs)
-[Hadoop on MAC pseudo node : nodename nor servname provided, or not known](https://stackoverflow.com/questions/19330334/hadoop-on-mac-pseudo-node-nodename-nor-servname-provided-or-not-known)
-
-
+[Apache Hadoop](https://hadoop.apache.org/)  
+[아파치 스파크 입문](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=193)  
+[Hadoop: Setting up a Single Node Cluster](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html)  
+[Receive Operation Not Permitted Error when starting HDFS](https://stackoverflow.com/questions/70792628/receive-operation-not-permitted-error-when-starting-hdfs)  
+[Hadoop on MAC pseudo node : nodename nor servname provided, or not known](https://stackoverflow.com/questions/19330334/hadoop-on-mac-pseudo-node-nodename-nor-servname-provided-or-not-known)  
+[스파크 정리](https://psyduck5.tistory.com/category/Spark)
